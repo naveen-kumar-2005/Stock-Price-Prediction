@@ -32,8 +32,8 @@ The dataset consists of historical stock closing prices from `trainset.csv` and 
 
 
 ## Program
-#### Name:Kannan S
-#### Register Number: 212223230098
+#### Name:Naveen Kumar.R
+#### Register Number: 212223230139
 
 ```Python 
 # Define RNN Model
@@ -86,12 +86,10 @@ for epoch in range(epochs):
 
 ### True Stock Price, Predicted Stock Price vs time
 
-<img width="1147" height="719" alt="image" src="https://github.com/user-attachments/assets/1811b0b4-f278-4d65-a568-3a3d63a0dbab" />
+<img width="1166" height="613" alt="Screenshot 2025-11-15 112626" src="https://github.com/user-attachments/assets/975e69a6-3d59-49f9-a665-e80387cc5f3c" />
 
 
-### Predictions 
 
-<img width="300" height="57" alt="image" src="https://github.com/user-attachments/assets/7225d6b0-2f9b-4eff-bcc6-435029b4e0b7" />
 
 
 ## Result
